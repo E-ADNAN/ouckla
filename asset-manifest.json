@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ouckla/static/css/main.7e04d19b.chunk.css",
+    "main.js": "/ouckla/static/js/main.9c01410e.chunk.js",
+    "main.js.map": "/ouckla/static/js/main.9c01410e.chunk.js.map",
+    "runtime-main.js": "/ouckla/static/js/runtime-main.1cd6e8ef.js",
+    "runtime-main.js.map": "/ouckla/static/js/runtime-main.1cd6e8ef.js.map",
+    "static/js/2.d6515d5c.chunk.js": "/ouckla/static/js/2.d6515d5c.chunk.js",
+    "static/js/2.d6515d5c.chunk.js.map": "/ouckla/static/js/2.d6515d5c.chunk.js.map",
+    "index.html": "/ouckla/index.html",
+    "static/css/main.7e04d19b.chunk.css.map": "/ouckla/static/css/main.7e04d19b.chunk.css.map",
+    "static/js/2.d6515d5c.chunk.js.LICENSE.txt": "/ouckla/static/js/2.d6515d5c.chunk.js.LICENSE.txt",
+    "static/media/osoon.8c8d049f.png": "/ouckla/static/media/osoon.8c8d049f.png",
+    "static/media/ouckla.1b407b28.png": "/ouckla/static/media/ouckla.1b407b28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cd6e8ef.js",
+    "static/js/2.d6515d5c.chunk.js",
+    "static/css/main.7e04d19b.chunk.css",
+    "static/js/main.9c01410e.chunk.js"
+  ]
+}
