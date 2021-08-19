@@ -9,7 +9,7 @@ function App() {
       <div className="wrapper">
         <div className="container">
             <section className="section-coming-soon">
-           <div className="logo">
+            <div className="logo">
                     <img src={ouckla} className="main-logo" alt="Ouckla logo"/>
                 </div>
              <div className="coming-soon">
