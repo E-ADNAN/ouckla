@@ -17,6 +17,8 @@ function App() {
                 </div>
                 <div className="copyright">
                     <strong>Ouckla 2021.</strong> All rights reserved.
+                    <br/>
+                    <span> &copy; eadnan</span>
                 </div>
             </section>
         </div>
